@@ -1,0 +1,772 @@
+[
+	{
+		"dataType": "uint8",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x00",
+		"numberOfSI": "0",
+		"attr": "const",
+		"type": "Output",
+		"empty": "28",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "HighestSubindexSupported5806",
+		"comments": "İlgili nesnenin aldığı alt nesne sayısını belirtmektedir.",
+		"zeroBasedEnumeration": "0",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "7",
+				"subfieldName": "0x20"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x01",
+		"numberOfSI": "1",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam1",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "1",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam1"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x02",
+		"numberOfSI": "2",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam2",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "2",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam2"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x03",
+		"numberOfSI": "3",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam3",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "3",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam3"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x04",
+		"numberOfSI": "4",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam4",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "4",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam4"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x05",
+		"numberOfSI": "5",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam5",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "5",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam5"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x06",
+		"numberOfSI": "6",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam6",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "6",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam6"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x07",
+		"numberOfSI": "7",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam7",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "7",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam7"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x08",
+		"numberOfSI": "8",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam8",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "8",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam8"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x09",
+		"numberOfSI": "9",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "17",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam9",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "9",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam9"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x0A",
+		"numberOfSI": "10",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam10",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "10",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam10"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x0B",
+		"numberOfSI": "11",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam11",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "11",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam11"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x0C",
+		"numberOfSI": "12",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam12",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "12",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam12"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x0D",
+		"numberOfSI": "13",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam13",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "13",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam13"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x0E",
+		"numberOfSI": "14",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam14",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "14",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam14"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x0F",
+		"numberOfSI": "15",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam15",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "15",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam15"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x10",
+		"numberOfSI": "16",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam16",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "16",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam16"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x11",
+		"numberOfSI": "17",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam17",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "17",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam17"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x12",
+		"numberOfSI": "18",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam18",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "18",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam18"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x13",
+		"numberOfSI": "19",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam19",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "19",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam19"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x14",
+		"numberOfSI": "20",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam20",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "20",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam20"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x15",
+		"numberOfSI": "21",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam21",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "21",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam21"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x16",
+		"numberOfSI": "22",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam22",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "22",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam22"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x17",
+		"numberOfSI": "23",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam23",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "23",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam23"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x18",
+		"numberOfSI": "24",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam24",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "24",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam24"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x19",
+		"numberOfSI": "25",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam25",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "25",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam25"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x1A",
+		"numberOfSI": "26",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam26",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "26",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam26"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x1B",
+		"numberOfSI": "27",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam27",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "27",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam27"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x1C",
+		"numberOfSI": "28",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam28",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "28",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam28"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x1D",
+		"numberOfSI": "29",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam29",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "29",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam29"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x1E",
+		"numberOfSI": "30",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam30",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "30",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam30"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x1F",
+		"numberOfSI": "31",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam31",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "31",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam31"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "OutputDebugParameters",
+		"index": "0x5806",
+		"subIndex": "0x20",
+		"numberOfSI": "32",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "OutputDebugParam32",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "32",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam32"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "Output",
+		"index": "0x06",
+		"subIndex": "0x20",
+		"numberOfSI": "0",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "Output1",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "32",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam32"
+			}
+		]
+	},
+	{
+		"dataType": "single",
+		"groupName": "Output",
+		"index": "0x06",
+		"subIndex": "0x20",
+		"numberOfSI": "1",
+		"attr": "rw",
+		"type": "Output",
+		"empty": "18",
+		"unit": "-",
+		"isAllowed": "",
+		"objectName": "Output2",
+		"comments": "Tasarımcı tarafından test amaçlı kullanılan Çıktı parametreleridir. ",
+		"zeroBasedEnumeration": "32",
+		"subfields": [
+			{
+				"startBit": "0",
+				"endBit": "31",
+				"subfieldName": "OutputDebugParam32"
+			}
+		]
+	}
+]
